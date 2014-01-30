@@ -43,6 +43,10 @@
 				<string>underline</string>
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
+				<key>gutter</key>
+				<string>#8c9393</string>
+				<key>gutterForeground</key>
+				<string>#dddddd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -131,6 +135,17 @@
 			<string>Keyword</string>
 			<key>scope</key>
 			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffcc33</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
