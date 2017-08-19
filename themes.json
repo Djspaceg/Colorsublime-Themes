@@ -102,6 +102,12 @@
 		"Description": "Modern evolution of the old CodeWarrior by MetroWorks theme"
 	},
 	{
+		"Title": "CodeWarrior Dark",
+		"FileName": "CodeWarriorDark.tmTheme",
+		"Author": "Blake Stephens",
+		"Description": "Modern evolution of the old CodeWarrior by MetroWorks theme but dark and mysterious"
+	},
+	{
 		"Title": "Colonoscopy",
 		"FileName": "Colonoscopy.tmTheme",
 		"Author": "",
@@ -232,7 +238,7 @@
 		"FileName": "IR_Black.tmTheme",
 		"Author": "Todd Werth",
 		"Description": ""
-	},	
+	},
 	{
 		"Title": "Juicy",
 		"FileName": "Juicy.tmTheme",
